@@ -19,10 +19,10 @@ The Emission NFT interface
 ![Emission NFT interface](images/emission-nfts.png)
 
 Transfer tokens to NFT wallet
-![Transfer tokens to NFT wallet](images/transfer-to-nft-wallet)
+![Transfer tokens to NFT wallet](images/transfer-to-nft-wallet.png)
 
 Retire a token
-![Transfer tokens to NFT wallet](images/retire-emissions)
+![Transfer tokens to NFT wallet](images/retire-emissions.png)
 
 
 
