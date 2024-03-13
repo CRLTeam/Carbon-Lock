@@ -1,4 +1,4 @@
-# Energy-Asset-Digital-Wallet
+# Carbon Lock
 This is a system to demonstrate the architecture for retiring CO2 emissions using offset tokens.
 
 ## contracts
