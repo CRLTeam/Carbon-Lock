@@ -13,4 +13,16 @@ This is the web interface for interacting with the smart contracts and the datab
 # Installation
 The system should be able to run on an AWS t2-medium EC2 instance (or GCP/Azure equivalent).  Both the server and the web-wallet can be hosted on the same EC2 instance.  The server runs on port 3001 and the web app on 3000. An instance of MongoDB needs to be run on the server too.  The applications can be set to run "forever" using PM2 and the docker MongoDB can use the /b option to run in the background.
 
+# Screenshots
+
+The Emission NFT interface
+![Emission NFT interface](images/emission-nfts.png)
+
+Transfer tokens to NFT wallet
+![Transfer tokens to NFT wallet](images/transfer-to-nft-wallet)
+
+Retire a token
+![Transfer tokens to NFT wallet](images/retire-emissions)
+
+
 
